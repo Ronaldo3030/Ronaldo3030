@@ -8,12 +8,13 @@
 </div>
 
 <h3>Hello World! Welcome to my profile</h3>
-
+ <img height="160em" src="https://miro.medium.com/max/480/0*kIrASm_jWM13i1tT.gif"/>
+ 
 - 🔎 I'm looking for an internship
 - 🏫 I'm studying computer science at UNIPAC Barbacena
 - 💻 Studying: NodeJS
 
-  <img height="320em" src="https://miro.medium.com/max/480/0*kIrASm_jWM13i1tT.gif"/><br>
+ 
 
  <div>
   <a href="https://github.com/Ronaldo3030">
