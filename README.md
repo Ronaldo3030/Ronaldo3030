@@ -11,7 +11,7 @@
  
 - 🔎 I'm looking for an internship
 - 🏫 I'm studying computer science at UNIPAC Barbacena
-- 💻 Studying: NodeJS
+- 💻 Studying: NodeJS / React / PHP
 
  
 
