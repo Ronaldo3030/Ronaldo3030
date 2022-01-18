@@ -44,11 +44,12 @@
    <a href="https://instagram.com/juninho_jucaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Juninhojucasido" target="_blank"><img src="https://img.shields.io/twitter/follow/Juninhojucasido?label=Twitter&style=for-the-badge" target="_blank"></a> 
    <a href = "mailto:ronaldomacielcamposjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ronaldo-maciel-586619209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  <br>
  <div align="center">
-   <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ronaldo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldo3030&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+   <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ronaldo streak" src="https://github-readme-stats.vercel.app/api?username=Ronaldo3030&show_icons=true&theme=dark"/>
+   
 </div>
   
 
