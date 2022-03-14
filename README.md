@@ -48,8 +48,7 @@
  </div>
  <br>
  <div>
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ronaldo3030&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-   
+   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldo3030&theme=dark"/>
 </div>
   
 
