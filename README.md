@@ -48,7 +48,7 @@
  </div>
  <br>
  <div>
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ronaldo streak" src="https://github-readme-stats.vercel.app/api?username=Ronaldo3030&show_icons=true&theme=dark"/>
+   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ronaldo3030&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
    
 </div>
   
