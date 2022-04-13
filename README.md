@@ -63,8 +63,8 @@
 
 <div>
   <a href="https://github.com/Ronaldo3030">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronaldo3030&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronaldo3030&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="46%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronaldo3030&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="46%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronaldo3030&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
   
 
