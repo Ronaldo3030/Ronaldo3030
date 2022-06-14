@@ -1,4 +1,5 @@
-<h1>Hi <img src="https://github.com/nicollecnunes/nicollecnunes/blob/main/Hi.gif" alt="hi gif" width="30px">, I'm Ronaldo</h1>
+<h1 align="center">Ronaldo Maciel</h1>
+<div align="center">
  <div>
  
   ### Languages:
@@ -67,7 +68,7 @@
   <img width="46%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronaldo3030&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
   
-
+   </div>
 
 
 
