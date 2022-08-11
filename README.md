@@ -1,7 +1,7 @@
 <h1 align="center">Ronaldo Maciel 👾</h1>
 <div align="center">
  <div>
- <h3 align="left">Backend:</h3>
+ <h3 align="left">BackEnd:</h3>
 <p align="left">
    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
    <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
