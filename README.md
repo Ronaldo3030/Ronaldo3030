@@ -2,7 +2,6 @@
 
 My name is Ronaldo Maciel, and I'm a Computer Science student in my 8th semester at Unipac in Barbacena. I currently live in Lagoa Dourada, and I love developing back-end systems and applications using technologies such as PHP, Git, MySQL, and JavaScript. I'm a fan of the Scrum methodology and always on the lookout for new technologies to improve my skills. Right now, I'm studying Docker and NodeJS to further enhance my abilities. Outside of programming, I enjoy playing games and watching movies and TV shows. If you're looking for a dedicated, creative developer who's always learning, feel free to get in touch!
 
- <a href="https://instagram.com/juninho_jucaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:ronaldomacielcamposjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/ronaldo-maciel-586619209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
