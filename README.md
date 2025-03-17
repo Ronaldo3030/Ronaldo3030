@@ -1,6 +1,6 @@
 ## About me 
 
-I'm Ronaldo, also known as Sido. I'm a Fullstack Developer with a focus on backend development. I have experience with backend technologies such as Node.js, PHP, MySQL, PostgreSQL, and Docker, and on the frontend, I work with Next.js, Tailwind, as well as HTML and CSS
+I'm Ronaldo, also known as Sido. I'm a Fullstack Developer with a focus on backend development. I have experience with backend technologies such as Node.js, PHP, MySQL, PostgreSQL, and Docker, and on the frontend, I work with React, Tailwind, as well as HTML and CSS
 
    <a href = "mailto:ronaldomacielcamposjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/ronaldo-maciel-586619209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
