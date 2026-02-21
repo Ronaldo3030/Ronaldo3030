@@ -1,11 +1,14 @@
-I'm Ronaldo, also known as **Sido**. I'm a **Full‑Stack Developer** with a strong emphasis on backend architecture and automation. I bring experience in a wide array of technologies, ensuring robust and efficient full-stack development.
+Eu sou o Ronaldo, mas muita gente me chama de **Sido**.  
+Atuo como **Desenvolvedor Full-Stack**, com foco maior em backend, arquitetura e automação. Gosto de construir soluções bem estruturadas, pensando não só em fazer funcionar, mas em manter o código organizado, escalável e fácil de evoluir.
+
+Tenho experiência trabalhando do backend ao frontend, sempre buscando entregar aplicações completas, performáticas e bem resolvidas.
 
 <a href="mailto:ronaldomacielcamposjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 <a href="https://www.linkedin.com/in/ronaldo-maciel-586619209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 
 ---
 
-## Backend & Automation
+## 🧠 Backend & Automação
 
 <p align="left">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -19,9 +22,11 @@ I'm Ronaldo, also known as **Sido**. I'm a **Full‑Stack Developer** with a str
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+Trabalho bastante com APIs REST, modelagem de banco de dados, organização de camadas e automação de tarefas para facilitar o dia a dia do desenvolvimento.
+
 ---
 
-## Frontend & Styling
+## 🎨 Frontend & Estilização
 
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -33,27 +38,26 @@ I'm Ronaldo, also known as **Sido**. I'm a **Full‑Stack Developer** with a str
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-
-## Tools & Workflow
-
-- **Containerization & DevOps**: Docker, CI/CD best practices  
-- **Database & APIs**: MySQL, PostgreSQL
-- **Automation & Scripting**: Bash, Python for task automation and tooling  
-- **Full-Stack Development**: RESTful APIs, responsive frontend interfaces, and end-to-end workflows
+No frontend, gosto de interfaces limpas, responsivas e objetivas. Curto trabalhar com componentização bem feita e código tipado com TypeScript para evitar dor de cabeça lá na frente.
 
 ---
 
-### Summary
+## ⚙️ Ferramentas & Forma de Trabalhar
 
-- Solid backend foundation with **Java + Spring Boot**, **Node.js**, and scripting via **Python** and **Bash**
-- Strong frontend experience using **React**, **TypeScript**, and modern styling frameworks like **Tailwind CSS** and **Bootstrap**
-- Proficient in **Docker** for environment management and deployment
-- Comfortable working with relational databases like **MySQL**
+- Containerização com Docker  
+- Integração com bancos relacionais como MySQL e PostgreSQL  
+- Scripts com Bash e Python para automações  
+- Desenvolvimento full-stack com foco em organização, clareza e manutenção a longo prazo  
 
+---
 
+### 🚀 Em resumo
 
- <br>
+- Base sólida em backend com Java + Spring Boot e Node.js  
+- Experiência prática com React e TypeScript no frontend  
+- Facilidade em estruturar projetos do zero  
+- Sempre buscando evoluir tecnicamente e escrever código que faça sentido  
 
+<br>
 
-  <img width="auto" height="200px" src="hi.gif">
+<img width="auto" height="200px" src="hi.gif">
